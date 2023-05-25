@@ -1,4 +1,4 @@
-## (Los cuentos de Rubén)
+## Los cuentos de Rubén
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
