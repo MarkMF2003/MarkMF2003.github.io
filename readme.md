@@ -26,11 +26,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   MS Edge
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 20MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 25/05/2023
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -38,23 +38,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+![1](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/cd4a3395-49af-4c98-936a-e070a5b65f08)
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
 ### 2.2. Esquema de navegación 
 
+![2](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/c0e8dc60-9819-47e9-a088-088858c0014b)
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -127,14 +123,17 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Jamendo
+* Imágenes:  Mark Molero Fernández
+* Tipografía: Chalkduster (Procreate)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
+- Photoshop
+- Audacity
+- Avidemux
 
 
 
@@ -142,4 +141,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Junio 2023
