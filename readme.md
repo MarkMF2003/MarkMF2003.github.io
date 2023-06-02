@@ -75,13 +75,12 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante porque, a través de él, se hace más atractivo lo narrativo para los niños que ya han nacido rodeados de tecnología. Mientras cada vez es más complejo introducir a los nativos digitales a la lectura, con este proyecto se les puede acercar a ello a partir de lo interactivo, despertando un interés en el que la literatura puede dar un paso más allá
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños de entre 5 y 10 años.
 
 
 
@@ -91,7 +90,9 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+El juego se centra en las aventuras de Rubén, quien acaba llegando a la Luna al dar un paseo. Tras una pequeña animación que introduce a su mundo, se accede a un menú en el cual 
+
+- Juego.
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
