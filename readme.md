@@ -91,6 +91,7 @@ A lo largo del proyecto se emplean recursos de distintos tipos, recurriendo para
 ### Etapa 3: Problemas identificados
 
 En el resultado final, a pesar de que la generalidad del proyecto funciona correctamente, este sigue conteniendo pequeños errores. El más notable está en la escena a la que se redirige al haber ganado el minijuego, en la cual la barra para modificar el volumen se mueve por haber cambiado su posición en la línea de tiempo. Esto, además de ser antiestético, dificulta que el consumidor pueda ajustar el volumen a su gusto en esta pantalla.
+Podría, además, romperse con el estatismo de las imágenes en algunos puntos de la historia, añadiendo para ello secuencias de imágenes o más animaciones.
 
 
 
