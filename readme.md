@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : En este proyecto se crea un cuenta cuentos infantil en el que Rubén vive sus propias aventuras. Desde su casa hasta el espacio exterior, Rubén recorrerá el mundo.
 
-**Estilo/género:**  Cuenta cuentos
+**Estilo/género:**  Cuenta cuentos infantil
 
 **Logotipo** : 
 
