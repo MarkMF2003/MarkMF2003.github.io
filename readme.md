@@ -68,7 +68,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque, a través de él, se hace más atractivo lo narrativo para los niños que ya han nacido rodeados de tecnología. Mientras cada vez es más complejo introducir a los nativos digitales a la lectura, con este proyecto se les puede acercar a ello a partir de lo interactivo, despertando un interés en el que la literatura puede dar un paso más allá
+Este  proyecto es interesante porque, a través de él, se hace más atractivo lo narrativo para los niños que ya han nacido rodeados de tecnología. Mientras cada vez es más complejo introducir a los nativos digitales a la lectura, con este proyecto se les puede acercar a ello a partir de lo interactivo, despertando un interés en el que la literatura puede dar un paso más allá.
 
 
 **Publico / audiencia**
@@ -96,7 +96,7 @@ En el resultado final, a pesar de que la generalidad del proyecto funciona corre
 
 # 4. Conclusiones 
 
-Puedo, de esta manera, concluir que el proyecto, como primer contacto con los medios interactivos, cumple su función y no se encuentra con grandes errores. Sin embargo, este podría desarrollarse en una mayor extensión y perfeccionarse en muchos de elementos. Sería posible explotar de forma mucho mayor los recursos disponibles en Hippani y ampliar, de esta manera, el proyecto ya iniciado.
+Puedo, de esta manera, concluir que el proyecto, como primer contacto con los medios interactivos, cumple su función y no se encuentra con grandes errores. Sin embargo, este podría desarrollarse en una mayor extensión y perfeccionarse en muchos de sus elementos. Sería posible explotar de forma mucho mayor los recursos disponibles en Hippani y ampliar, de esta manera, el proyecto ya iniciado.
 
 
 
