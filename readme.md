@@ -43,14 +43,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-![1](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/cd4a3395-49af-4c98-936a-e070a5b65f08)
+![IMG_2096](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/3a47430d-3ad3-4f26-887c-f98012460e4e)
 
 
 
 
 ### 2.2. Esquema de navegación 
 
-![2](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/c0e8dc60-9819-47e9-a088-088858c0014b)
+![IMG_2095](https://github.com/MarkMF2003/MarkMF2003.github.io/assets/134588001/244c1267-87f7-4c54-a0bf-1178d77b4b6b)
+
 
 
 
