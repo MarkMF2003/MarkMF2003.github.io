@@ -89,22 +89,34 @@ Tras una pequeña animación de inicio que introduce a su mundo, se accede a un 
 A lo largo del proyecto se emplean recursos de distintos tipos, recurriendo para ello al uso del ratón y de los cursores por parte del consumidor y al uso de imágenes y vídeo. Estas últimas se emplean en todo el proyecto, pero destacan especialmente en espacios como la galería, que es directamente un visualizador de imágenes, y en el juego, en el cual, en caso de perder, se reconduce directamente a un vídeo en el que un cohete se estrella con la Luna. Por otra parte, la experiencia del juego se fundamenta en los botones, que redirigen de un espacio a otro al gusto del consumidor, pudiendose recorrer todo lo que el proyecto ofrece en todo momento y accediendo desde distintos puntos.
 
 
+
 ### Etapa 3: Problemas identificados
 
 En el resultado final, a pesar de que la generalidad del proyecto funciona correctamente, este sigue conteniendo pequeños errores y aspectos a mejorar. Se podría, por ejemplo, implementar un sistema de logros en el que quedaran registrados los juegos ya superados, de manera que se ofrezca un refuerzo positivo al consumidor al cumplir una tarea.
 
 
+
 *Mejoras realizadas en su última fase:
+
 En la última fase del proyecto, se han llevado a cabo diversas mejoras:
 -En ciertos puntos, el posicionamiento de los botones podía provocar confusión, pues su posición cambia entre las escenas. En consecuencia, estos se han colocado en el mismo lugar en todos los puntos del juego y, así, se unifica la interfaz.
+
 -Para poder localizar con mayor facilidad aquellas imágenes que son botones, se les ha dado sonido, de forma que tanto al pasar el cursor sobre ellas como al clicarlas, su función de botón se evidencie en el sonido.
+
 -En aquellas escenas de mayor hieratismo en las imágenes, se ha añadido movimiento a través de los botones, indicando con ello aquel qué se recomienda pulsar.
+
 -Se han solucionado los problemas referentes a la desaparición de la imagen del botón al ser pulsado, pudiéndose ahora visualizar el botón en todos sus estados.
+
 -Se ha añadido un nuevo juego al catálogo de historias ofrecidas, el cual narra la historia de Rubén con su examen. En él, a través de un quiz, el jugador completa el examen.
+
 -En consecuencia de la aparición de una nueva historia, se ha añadido un submenú para seleccionar entre los juegos disponibles el que se pretende jugar.
+
 -A las historias se les ha añadido una conclusión que las deja cerradas, redirigiendo tras esto al inicio del juego. De esta manera, los juegos permiten al consumidor tener la satisfacción de haber concluido una tarea que se recompensa con que la historia quede finalizada.
+
 -En la galería de imágenes, las imágenes se asocian ahora a los juegos, teniendo una narrativa propia que sirve como sinopsis de aquello que se puede jugar desde los minijuegos.
+
 -El sonido se ha regulado en las distintas partes del juego, de forma que no hay picos de subidas ni bajadas de volumen.
+
 -Se ha arreglado el fallo ubicado en la escena de victoria del primer juego relacionado con la barra de volumen.
 
 
